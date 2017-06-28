@@ -1,0 +1,5 @@
+TARGET="http://target.domain.com/ping"
+TIMEOUT=1
+DEFAULT=0
+EX_RESULT=200
+METRIC_ID=1
