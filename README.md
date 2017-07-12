@@ -1,9 +1,8 @@
-#Overview
+# Overview
 
 A lot of the Cachet metric plugins are very bulky. I just wanted something quick and simple to push stats into the metric API.
 
-
-#Installation
+# Installation
 
 copy the files some place. 
 
